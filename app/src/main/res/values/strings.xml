@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="btnCurrent">現在時間</string>
+</resources>
